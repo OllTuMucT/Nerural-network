@@ -1,1 +1,1 @@
-# Nerural-network
+# Neural-network
